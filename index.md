@@ -14,9 +14,7 @@ Our application, Manoa Mentoring, aims to bring together students and mentors. S
 
 ### Landing Page
 ![](img/landingpage_mock.png)
-
 Welcome to our platform! Here, you'll find a vibrant community of learners dedicated to academic excellence. Our landing page showcases images of enthusiastic individuals engaged in studying, setting the tone for an interactive and collaborative learning experience. Get ready to explore our application, designed to enhance your educational journey.
-
 
 ## User Home Page:
 Step into your personalized hub for learning. Our user home page offers tailored recommendations for study groups based on your interests, fostering connections with like-minded peers. Easily access your profile with a single click, where you can manage your information and preferences.
