@@ -14,6 +14,8 @@ Our application, Manoa Mentoring, aims to bring together students and mentors. S
 
 ### Landing Page
 
+![](img/landingpage_mock.png)
+
 ## Team
 Manoa Mentoring is developed and maintained by Roger Tulonghari, Grace Madson, Hazelle Limos, Robert Maddox, and Hau'oli O'Brien.
 
