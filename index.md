@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Overview](#overview)
 * [Mockup Pages](#mockup-pages)
+* [Development History](#development-history)
 * [Team](#team)
 
 ## Overview
@@ -37,6 +38,12 @@ Take control of your study sessions with our user-friendly creation tool. Specif
 
 ### Study Session Page:
 Discover the perfect study session to elevate your learning experience. Utilize our search functionality to find sessions based on class, ensuring you never miss out on valuable collaborative study opportunities.
+
+## Development History
+### Milestone 1: Mockup Development
+For Milestone 1, our team plans to complete the mockup pages for the application and to deploy to Digital Ocean.
+
+This milestone is managed by the [Manoa Mentoring GitHub Project Board M1](https://github.com/orgs/manoa-mentoring/projects/1/views/1).
 
 ## Team
 Manoa Mentoring is developed and maintained by Roger Tulonghari, Grace Madson, Hazelle Limos, Robert Maddox, and Hau'oli O'Brien.
