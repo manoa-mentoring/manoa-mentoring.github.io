@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * [Overview](#overview)
+* [Deployment](#deployment)
 * [Mockup Pages](#mockup-pages)
 * [Development History](#development-history)
 * [Team](#team)
@@ -11,8 +12,10 @@ Students at UH Manoa may encounter difficulties while studying, doing homework, 
 
 Our application, Manoa Mentoring, aims to bring together students and mentors. Students can match themselves with other students who are facing similar issues, or they can choose a mentor who specializes in a subject or course they are taking. Through Manoa Mentoring, our goal is to create a space where students can not only receive the support they need, but also foster connections through mentorship and potential friendships.
 
-## Mockup Pages
+## Deployment
+This application has been deployed to Digital Ocean and can be found here.
 
+## Mockup Pages
 ### Landing Page:
 <img src="img/landingsample.png">
 
