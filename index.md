@@ -32,7 +32,7 @@ Step into your personalized hub for learning. Our user home page offers tailored
 Admins, take charge of facilitating learning opportunities. From here, you can view and manage current study groups, ensuring a seamless experience for all users. Navigate effortlessly to a comprehensive display of user profiles, empowering you to support and guide the learning community effectively.
 
 ### User Profile Page:
-<img src="img/userprofile_mock.png">
+<img src="img/userprofile_mock_2.png">
 
 Your profile, your identity. This page showcases your information in a user-friendly layout, complete with an edit button for easy updates. Much like the streamlined functionality of Digits, managing your profile has never been more straightforward.
 
