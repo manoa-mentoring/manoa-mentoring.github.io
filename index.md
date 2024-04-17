@@ -58,11 +58,15 @@ Discover the perfect study session to elevate your learning experience. Utilize 
 
 ## Development History
 ### Milestone 1: Mockup Development
-For Milestone 1, our team plans to complete the mockup pages for the application and to deploy to Digital Ocean.
+For Milestone 1, our goal was to create the mockup pages for the application and deploy to Digital Ocean.
 
 This milestone is managed by the [Manoa Mentoring GitHub Project Board M1](https://github.com/orgs/manoa-mentoring/projects/1/views/1).
 
-### Milestone 2:
+<img src="img/project-board-m1.png">
+
+### Milestone 2: 
+For Milestone 2, our goal is to improve the application's functionalities by adding pages for a calendar and available study sessions. We also plan to continue the development of the data model, in which we will be implementing the proper Mongo Collections for the application's profiles and study sessions.
+
 This milestone is managed by the [Manoa Mentoring GitHub Project Board M2](https://github.com/orgs/manoa-mentoring/projects/2).
 
 ## Team
