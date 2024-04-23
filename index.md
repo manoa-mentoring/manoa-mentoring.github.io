@@ -15,43 +15,43 @@ Our application, Manoa Mentoring, aims to bring together students and mentors. S
 ## Deployment
 This application has been deployed to Digital Ocean and [can be found here](http://209.38.132.242/).
 
-## Mockup Pages
-### Landing Page:
+## User Guide
+### Landing Page
 <img src="img/landingsample.png">
 
 Welcome to our platform! Here, you'll find a vibrant community of learners dedicated to academic excellence. Our landing page showcases images of enthusiastic individuals engaged in studying, setting the tone for an interactive and collaborative learning experience. Get ready to explore our application, designed to enhance your educational journey.
 
-### User Home Page:
+### User Home Page
 <img src="img/userhome_mock.png">
 
 Step into your personalized hub for learning. Our user home page offers tailored recommendations for study groups based on your interests, fostering connections with like-minded peers. Easily access your profile with a single click, where you can manage your information and preferences.
 
-### Admin Home Page:
+### Admin Home Page
 <img src="img/adminhome_mock_2.png">
 
 Admins, take charge of facilitating learning opportunities. From here, you can view and manage current study groups, ensuring a seamless experience for all users. Navigate effortlessly to a comprehensive display of user profiles, empowering you to support and guide the learning community effectively.
 
-### User Profile Page:
+### User Profile Page
 <img src="img/userprofile_mock_2.png">
 
 Your profile, your identity. This page showcases your information in a user-friendly layout, complete with an edit button for easy updates. Much like the streamlined functionality of Digits, managing your profile has never been more straightforward.
 
-### Edit Profile Page:
+### Edit Profile Page
 <img src="img/editprofile_mock_2.png">
 
 Fine-tune your details with ease on our edit profile page, reminiscent of the intuitive design of Digits. Update your information effortlessly, ensuring accuracy and relevance to your learning journey.
 
-### Calendar Page:
+### Calendar Page
 <img src="img/calendar_mock.png">
 
 Stay organized and informed with our dynamic calendar feature. Seamlessly integrated with Bootstrap components, our functional calendar allows users to view available study sessions based on admin (mentor) availability. Drawing inspiration from ICS 314 Calendar and STAR GPS, finding suitable study dates has never been more convenient.
 
-### Create a Study Sesh Page:
+### Create a Study Sesh Page
 <img src="img/createsesh_mock.png">
 
 Take control of your study sessions with our user-friendly creation tool. Specify details such as session time, topic, and class, empowering you to organize effective study gatherings tailored to your needs.
 
-### Study Session Page:
+### Study Session Page
 <img src="img/studysesh_mock.png">
 
 Discover the perfect study session to elevate your learning experience. Utilize our search functionality to find sessions based on class, ensuring you never miss out on valuable collaborative study opportunities.
@@ -64,10 +64,13 @@ This milestone is managed by the [Manoa Mentoring GitHub Project Board M1](https
 
 <img src="img/project-board-m1.png">
 
-### Milestone 2: 
+### Milestone 2: Additional Features and Data Model Development
 For Milestone 2, our goal is to improve the application's functionalities by adding pages for a calendar and available study sessions. We also plan to continue the development of the data model, in which we will be implementing the proper Mongo Collections for the application's profiles and study sessions.
 
 This milestone is managed by the [Manoa Mentoring GitHub Project Board M2](https://github.com/orgs/manoa-mentoring/projects/2).
+
+### Milestone 3: Final Touches
+This milestone is managed by the [Manoa Mentoring GitHub Project Board M3](https://github.com/orgs/manoa-mentoring/projects/4).
 
 ## Team
 Manoa Mentoring is developed and maintained by Roger Tulonghari, Grace Madson, Hazelle Limos, Robert Maddox, and Hau'oli O'Brien.
