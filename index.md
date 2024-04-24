@@ -43,7 +43,7 @@ Your profile, your identity. This page showcases your information in a user-frie
 Fine-tune your details with ease on our edit profile page, reminiscent of the intuitive design of Digits. Update your information effortlessly, ensuring accuracy and relevance to your learning journey.
 
 ### Calendar Page
-<img src="img/calendar_mock_2.png">
+<img src="img/calendar_mock_3.png">
 
 Stay organized and informed with our dynamic calendar feature. Seamlessly integrated with Bootstrap components, our functional calendar allows users to view available study sessions based on admin (mentor) availability. Drawing inspiration from ICS 314 Calendar and STAR GPS, finding suitable study dates has never been more convenient.
 
