@@ -74,6 +74,21 @@ This milestone is managed by the [Manoa Mentoring GitHub Project Board M2](https
 This milestone is managed by the [Manoa Mentoring GitHub Project Board M3](https://github.com/orgs/manoa-mentoring/projects/4).
 
 ## Developer Guide
+### Step 1: Clone the "manoamentoring" repo with Github Desktop [here](https://github.com/manoa-mentoring/manoamentoring).
+
+<img src="img/manoamentoringrepo.png">
+
+### Step 2: Either create a branch to start working on or open the main branch in Jetbrains Intellij Idea.
+
+<img src="img/intellij.png">
+
+### Step 3: Navigate to the app folder in the terminal and do "meteor npm install"
+
+<img src="img/meteornpminstall.png">
+
+### Step 4: Run "meteor npm run start"
+
+<img src="img/meteornpmrunstart.png">
 
 ## Team
 Manoa Mentoring is developed and maintained by Roger Tulonghari, Grace Madson, Hazelle Limos, Robert Maddox, and Hau'oli O'Brien.
