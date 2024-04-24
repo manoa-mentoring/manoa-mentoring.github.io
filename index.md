@@ -86,7 +86,7 @@ This milestone is managed by the [Manoa Mentoring GitHub Project Board M3](https
 
 <img src="img/meteornpminstall.png">
 
-### Step 4: Run "meteor npm run start"
+### Step 4: Run "meteor npm run start" and Open the app locally by clicking the localhost link in the terminal
 
 <img src="img/meteornpmrunstart.png">
 
