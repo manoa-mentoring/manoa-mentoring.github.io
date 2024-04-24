@@ -27,7 +27,7 @@ Welcome to our platform! Here, you'll find a vibrant community of learners dedic
 Step into your personalized hub for learning. Our user home page offers tailored recommendations for study groups based on your interests, fostering connections with like-minded peers. Easily access your profile with a single click, where you can manage your information and preferences.
 
 ### Admin Home Page
-<img src="img/adminhome_mock_2.png">
+<img src="img/adminhome_mock_3.gif">
 
 Admins, take charge of facilitating learning opportunities. From here, you can view and manage current study groups, ensuring a seamless experience for all users. Navigate effortlessly to a comprehensive display of user profiles, empowering you to support and guide the learning community effectively.
 
