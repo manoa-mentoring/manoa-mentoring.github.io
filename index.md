@@ -91,7 +91,7 @@ This milestone is managed by the [Manoa Mentoring GitHub Project Board M3](https
 <img src="img/meteornpmrunstart.png">
 
 ### Bonus Step 5: The important folders are "api" and "ui". 
-"api" contains necessary files for the various data structures the app uses like contacts, profiles, study sessions. Any further structures would be added here if needed. "ui" houses all of the apps visual elements and if you desire to change or add the appearance of any pages or components it will be done here.  
+"api" contains necessary files for the various data structures the app uses like contacts, profiles, study sessions. Any further structures would be added here if needed. "ui" houses all of the app's visual elements and if you desire to change or add the appearance of any pages or components it will be done here.  
 
 <img src="img/importantfolders.png">
 
