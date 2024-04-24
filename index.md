@@ -3,7 +3,7 @@
 ## Table of Contents
 * [Overview](#overview)
 * [Deployment](#deployment)
-* [Mockup Pages](#mockup-pages)
+* [User Guide](#user-guide)
 * [Development History](#development-history)
 * [Developer Guide](#developer-guide)
 * [Team](#team)
