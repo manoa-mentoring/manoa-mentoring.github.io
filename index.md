@@ -97,6 +97,8 @@ This milestone is managed by the [Manoa Mentoring GitHub Project Board M3](https
 <img src="img/importantfolders.png">
 
 ## Continuous Integration
+<img src="img/workflow_badge.png" width="150">
+
 GitHub Actions is used to automatically run ESLint and TestCafe whenever a commit is made to the main branch. This can be viewed at https://github.com/manoa-mentoring/manoamentoring/actions.
 
 The corresponding workflow definition file is located at [.github/workflows/ci.yml](https://github.com/manoa-mentoring/manoamentoring/blob/main/.github/workflows/ci.yml).
