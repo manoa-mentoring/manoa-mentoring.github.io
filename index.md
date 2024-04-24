@@ -71,6 +71,8 @@ For Milestone 2, our goal is to improve the application's functionalities by add
 
 This milestone is managed by the [Manoa Mentoring GitHub Project Board M2](https://github.com/orgs/manoa-mentoring/projects/2).
 
+<img src="img/project-board-m2.png">
+
 ### Milestone 3: Final Touches
 This milestone is managed by the [Manoa Mentoring GitHub Project Board M3](https://github.com/orgs/manoa-mentoring/projects/4).
 
