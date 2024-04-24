@@ -98,4 +98,4 @@ This milestone is managed by the [Manoa Mentoring GitHub Project Board M3](https
 ## Team
 Manoa Mentoring is developed and maintained by Roger Tulonghari, Grace Madson, Hazelle Limos, Robert Maddox, and Hau'oli O'Brien.
 
-Our organization can be found on [GitHub](https://github.com/manoa-mentoring), and the contract we created can be viewed [here](https://docs.google.com/document/d/1qXKbG2dNTEJKoSDvPZ3moOmphV2meq3-DvByIjZ7x2I/edit?usp=sharing).
+Our organization can be found on [GitHub](https://github.com/manoa-mentoring) with all of the repos here [Repos](https://github.com/orgs/manoa-mentoring/repositories), and the contract we created can be viewed [here](https://docs.google.com/document/d/1qXKbG2dNTEJKoSDvPZ3moOmphV2meq3-DvByIjZ7x2I/edit?usp=sharing).
