@@ -47,12 +47,12 @@ Fine-tune your details with ease on our edit profile page, reminiscent of the in
 Stay organized and informed with our dynamic calendar feature. Seamlessly integrated with Bootstrap components, our functional calendar allows users to view available study sessions based on admin (mentor) availability. Drawing inspiration from ICS 314 Calendar and STAR GPS, finding suitable study dates has never been more convenient.
 
 ### Create a Study Sesh Page
-<img src="img/createsesh_mock.png">
+<img src="img/createsesh_mock_2.gif">
 
 Take control of your study sessions with our user-friendly creation tool. Specify details such as session time, topic, and class, empowering you to organize effective study gatherings tailored to your needs.
 
 ### Study Session Page
-<img src="img/studysesh_mock.png">
+<img src="img/studysesh_mock_2.png">
 
 Discover the perfect study session to elevate your learning experience. Utilize our search functionality to find sessions based on class, ensuring you never miss out on valuable collaborative study opportunities.
 
