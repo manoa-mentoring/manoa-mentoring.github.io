@@ -5,6 +5,7 @@
 * [Deployment](#deployment)
 * [Mockup Pages](#mockup-pages)
 * [Development History](#development-history)
+* [Developer Guide](#developer-guide)
 * [Team](#team)
 
 ## Overview
@@ -71,6 +72,8 @@ This milestone is managed by the [Manoa Mentoring GitHub Project Board M2](https
 
 ### Milestone 3: Final Touches
 This milestone is managed by the [Manoa Mentoring GitHub Project Board M3](https://github.com/orgs/manoa-mentoring/projects/4).
+
+## Developer Guide
 
 ## Team
 Manoa Mentoring is developed and maintained by Roger Tulonghari, Grace Madson, Hazelle Limos, Robert Maddox, and Hau'oli O'Brien.
