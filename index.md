@@ -6,6 +6,7 @@
 * [User Guide](#user-guide)
 * [Development History](#development-history)
 * [Developer Guide](#developer-guide)
+* [Continuous Integration](#continuous-integration)
 * [Team](#team)
 
 ## Overview
@@ -94,6 +95,11 @@ This milestone is managed by the [Manoa Mentoring GitHub Project Board M3](https
 "api" contains necessary files for the various data structures the app uses like contacts, profiles, study sessions. Any further structures would be added here if needed. "ui" houses all of the app's visual elements and if you desire to change or add the appearance of any pages or components it will be done here.  
 
 <img src="img/importantfolders.png">
+
+## Continuous Integration
+GitHub Actions is used to automatically run ESLint and TestCafe whenever a commit is made to the main branch. This can be viewed at https://github.com/manoa-mentoring/manoamentoring/actions.
+
+The corresponding workflow definition file is located at [.github/workflows/ci.yml](https://github.com/manoa-mentoring/manoamentoring/blob/main/.github/workflows/ci.yml).
 
 ## Team
 Manoa Mentoring is developed and maintained by Roger Tulonghari, Grace Madson, Hazelle Limos, Robert Maddox, and Hau'oli O'Brien.
