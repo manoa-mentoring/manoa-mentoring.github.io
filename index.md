@@ -39,7 +39,7 @@ Admins, take charge of facilitating learning opportunities. From here, you can v
 Your profile, your identity. This page showcases your information in a user-friendly layout, complete with an edit button for easy updates. Much like the streamlined functionality of Digits, managing your profile has never been more straightforward.
 
 ### Edit Profile Page
-<img src="img/editprofile_mock_3.png">
+<img src="img/ss5.png">
 
 Fine-tune your details with ease on our edit profile page, reminiscent of the intuitive design of Digits. Update your information effortlessly, ensuring accuracy and relevance to your learning journey.
 
