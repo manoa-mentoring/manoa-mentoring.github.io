@@ -19,7 +19,7 @@ This application has been deployed to Digital Ocean and [can be found here](http
 
 ## User Guide
 ### Landing Page
-<img src="img/landingsample.png">
+<img src="img/ss2.png">
 
 Welcome to our platform! Here, you'll find a vibrant community of learners dedicated to academic excellence. Our landing page showcases images of enthusiastic individuals engaged in studying, setting the tone for an interactive and collaborative learning experience. Get ready to explore our application, designed to enhance your educational journey.
 
