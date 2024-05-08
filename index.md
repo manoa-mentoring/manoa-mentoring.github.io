@@ -54,7 +54,7 @@ Stay organized and informed with our dynamic calendar feature. Seamlessly integr
 Take control of your study sessions with our user-friendly creation tool. Specify details such as session time, topic, and class, empowering you to organize effective study gatherings tailored to your needs.
 
 ### Study Session Page
-<img src="img/studysesh_mock_2.png">
+<img src="img/ss1.png">
 
 Discover the perfect study session to elevate your learning experience. Utilize our search functionality to find sessions based on class, ensuring you never miss out on valuable collaborative study opportunities.
 
