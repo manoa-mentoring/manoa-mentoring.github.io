@@ -61,36 +61,40 @@ Discover the perfect study session to elevate your learning experience. Utilize 
 
 ## Development History
 ### Milestone 1: Mockup Development
-For Milestone 1, our goal was to create the mockup pages for the application and deploy to Digital Ocean.
+For Milestone 1, we created mockup pages for the application and deployed the site to Digital Ocean.
 
 This milestone is managed by the [Manoa Mentoring GitHub Project Board M1](https://github.com/orgs/manoa-mentoring/projects/1/views/1).
 
 <img src="img/project-board-m1.png">
 
 ### Milestone 2: Additional Features and Data Model Development
-For Milestone 2, our goal is to improve the application's functionalities by adding pages for a calendar and available study sessions. We also plan to continue the development of the data model, in which we will be implementing the proper Mongo Collections for the application's profiles and study sessions.
+For Milestone 2, we improved the application's functionalities by adding a calendar and a page to view available study pages. We continued the development of the data model, in which we implemented the proper Mongo Collections for the application's profiles and study sessions.
 
 This milestone is managed by the [Manoa Mentoring GitHub Project Board M2](https://github.com/orgs/manoa-mentoring/projects/2).
 
 <img src="img/project-board-m2.png">
 
 ### Milestone 3: Final Touches
+For Milestone 3, we focused on finalizing the application by improving the user interface and implementing the leveling system. Each time a student or mentor performs an action on the site, such as joining a study session, the user earns experience points that is reflected on their profile.
+
 This milestone is managed by the [Manoa Mentoring GitHub Project Board M3](https://github.com/orgs/manoa-mentoring/projects/4).
 
+<img src="img/project-board-m3.png">
+
 ## Developer Guide
-### Step 1: Clone the "manoamentoring" repo with Github Desktop [here](https://github.com/manoa-mentoring/manoamentoring).
+### Step 1: Clone the "manoamentoring" repo with GitHub Desktop [here](https://github.com/manoa-mentoring/manoamentoring).
 
 <img src="img/manoamentoringrepo.png">
 
-### Step 2: Either create a branch to start working on or open the main branch in Jetbrains Intellij Idea.
+### Step 2: Either create a branch to start working on or open the main branch in JetBrains IntelliJ Idea.
 
 <img src="img/intellij.png">
 
-### Step 3: Navigate to the app folder in the terminal and do "meteor npm install"
+### Step 3: Navigate to the app folder in the terminal and run "meteor npm install"
 
 <img src="img/meteornpminstall.png">
 
-### Step 4: Run "meteor npm run start" and Open the app locally by clicking the localhost link in the terminal
+### Step 4: Run "meteor npm run start" and open the app locally by clicking the localhost link in the terminal
 
 <img src="img/meteornpmrunstart.png">
 
@@ -122,4 +126,4 @@ _"I like the colors and UI design of the site. It seems quite organized, since I
 ## Team
 Manoa Mentoring is developed and maintained by Roger Tulonghari, Grace Madson, Hazelle Limos, Robert Maddox, and Hau'oli O'Brien.
 
-Our organization can be found on [GitHub](https://github.com/manoa-mentoring) with all of the repos [here](https://github.com/orgs/manoa-mentoring/repositories), and the contract we created can be viewed [here](https://docs.google.com/document/d/1qXKbG2dNTEJKoSDvPZ3moOmphV2meq3-DvByIjZ7x2I/edit?usp=sharing).
+Our organization can be found on [GitHub](https://github.com/manoa-mentoring) with all the repos [here](https://github.com/orgs/manoa-mentoring/repositories), and the contract we created can be viewed [here](https://docs.google.com/document/d/1qXKbG2dNTEJKoSDvPZ3moOmphV2meq3-DvByIjZ7x2I/edit?usp=sharing).
