@@ -7,6 +7,7 @@
 * [Development History](#development-history)
 * [Developer Guide](#developer-guide)
 * [Continuous Integration](#continuous-integration)
+* [Community Feedback](#community-feedback)
 * [Team](#team)
 
 ## Overview
@@ -99,11 +100,24 @@ This milestone is managed by the [Manoa Mentoring GitHub Project Board M3](https
 <img src="img/importantfolders.png">
 
 ## Continuous Integration
-<img src="img/workflow_badge.png" width="150">
+[![manoa-mentoring](https://github.com/manoa-mentoring/manoamentoring/actions/workflows/ci.yml/badge.svg)](https://github.com/manoa-mentoring/manoamentoring/actions/workflows/ci.yml)
 
 GitHub Actions is used to automatically run ESLint and TestCafe whenever a commit is made to the main branch. This can be viewed at https://github.com/manoa-mentoring/manoamentoring/actions.
 
 The corresponding workflow definition file is located at [.github/workflows/ci.yml](https://github.com/manoa-mentoring/manoamentoring/blob/main/.github/workflows/ci.yml).
+
+## Community Feedback
+We welcome feedback from the community! We are constantly looking for ways to improve our application and make it more user-friendly. Below is what some members of the UH Manoa community have said so far:
+
+_"Certain wording on the site could be confusing for some. For example, having the "sign in" button next to the "sign up" button can cause mixups. It could be changed to "log in" instead. Also, when creating your profile, I wasn't sure what "image" meant. That could be changed to "profile picture" as well."_ --User 1
+
+_"The links regarding study sessions could be placed into a dropdown menu. It looks a bit cluttered with separate links on the Navbar. Profile pictures should be uploaded using files instead of links."_ --User 2
+
+_"I wasn't quite sure what to do after registering for a session. There wasn't a link or session confirmation, other than a message saying that you did. If the website displays a page with details about your registered study session, such as Zoom links, that would be helpful. I think it should also lead to the calendar page, so I could visually see when the session is._ --User 3
+
+_"I would definitely use this site to help with my studies. While it's still in the early ages, I think it already has useful functions, such as the study session finder. If there was a chat function to contact other students or mentors, it would be easier to set up a study session."_ --User 4
+
+_"I like the colors and UI design of the site. It seems quite organized, since I can clearly see where to view profiles and study sessions. I would be interested in using it."_ --User 5
 
 ## Team
 Manoa Mentoring is developed and maintained by Roger Tulonghari, Grace Madson, Hazelle Limos, Robert Maddox, and Hau'oli O'Brien.
